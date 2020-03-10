@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Segoe UI Emoji';
+    src: url(./FZLBJW.TTF);
+}
+td{
+    text-align: center;
+}
+.mume{
+    font-family: 'Segoe UI Emoji';
+}
+h1[class='mume-header']{
+    font-size: 25px;
+}
+h2[class='mume-header']{
+    font-size: 18px;
+}
